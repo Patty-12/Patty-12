@@ -1,5 +1,5 @@
 ## Hola soy Patty 👋
-#![](https://github.com/Patty-12/Patty-12/blob/main/edificios-ciudad-de-noche_3840x1633_xtrafondos.com.jpg)
+# ![](https://github.com/Patty-12/Patty-12/blob/main/edificios-ciudad-de-noche_3840x1633_xtrafondos.com.jpg)
 <!--
 **Patty-12/Patty-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
